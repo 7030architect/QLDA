@@ -69,9 +69,9 @@ Quy đổi:
 **Ảnh hưởng đến kế hoạch:** trung bình khoảng 50–75 bao phải vác qua hiệu thuốc **mỗi đêm**.
 
 ## Câu hỏi cần chốt
-1. Chiều cao tầng 2 (sàn đến đáy sàn hoặc đáy dầm)? Tường trục A và trục 4, 5 dày 100 hay 200?
+1. ~~Chiều cao tầng 2~~: **3 m** (đã chốt). Còn hỏi: tường trục A và trục 4, 5 dày 100 hay 200?
 2. Tường trục 4 (B–A): phá hẳn thay cửa lùa, hay giữ tường và chỉ mở cửa?
-3. ~~Nền~~ (đã chốt). Còn hỏi: cao độ nền sân dưới trục A so với nền phòng chênh bao nhiêu? "Sân trước" là Sân trục 5–6 (18 m², phía trên hiệu thuốc)?
+3. ~~Nền~~ (đã chốt). Còn hỏi: cao độ nền sân dưới trục A so với nền phòng chênh bao nhiêu? ~~"Sân trước"~~ = **Sân trục 5–6, 18 m²** (đã chốt).
 4. Khu sân dưới trục A khi thành không gian trong nhà: **giữ mái tôn hay làm mái mới**? Có làm trần không?
 5. Tầng 3 có tường nào nằm ngay trên các tường sắp phá (trục A, 4, 5) mà **không có dầm đỡ** không? Kỹ sư kết cấu cần kiểm tra trước khi phá PD1–PD4.
 6. Các ô vuông nhỏ giữa trục 4–5 (trên trục A và trục B) trong bản vẽ mới là cột hay chi tiết gì?
@@ -82,6 +82,7 @@ Quy đổi:
 |---|---|
 | 26/11/2026 | Nền: chỉ bóc khu WC mới và toàn bộ sân trước, để chống thấm lại |
 | 26/11/2026 | **Thay mới toàn bộ cửa đi** |
+| 26/11/2026 | Chiều cao tầng 2 = **3 m**. Sân trước = **Sân trục 5–6** |
 | 26/11/2026 | **Mái tôn giữ nguyên**. Bổ sung chống nóng và làm trần thạch cao bên dưới (khu hành lang, phụ trợ, bếp + ăn, khoảng 37 m²) |
 
 ### Phương án chống nóng mái tôn (để chọn)
