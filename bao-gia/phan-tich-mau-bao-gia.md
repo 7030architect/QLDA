@@ -1,4 +1,4 @@
-# Phân tích file báo giá mẫu `Tu-house_baogia_261126_goc.xlsx`
+# Phân tích file báo giá mẫu `Tu-house_baogia_261126.xlsx` (bản gốc xem lịch sử git)
 
 ## Cấu trúc
 
@@ -58,3 +58,15 @@ Tổng các sheet dùng `SUBTOTAL(9,…)`.
   - vệ sinh hằng ngày.
 - **Nội thất (phần C)**: để trống ở báo giá đợt này, vì nội thất và thiết bị làm sau Tết. Cân nhắc tách thiết bị (Mep phần B) sang báo giá đợt 2 nếu lắp sau Tết.
 - Ghi chú chung bổ sung: tiến độ hoàn thành trước 30/01/2027, ràng buộc giờ vận chuyển, trách nhiệm với hiệu thuốc.
+
+## Đã sửa (26/11/2026)
+
+- [x] Prelim N9–N11, Mep N9, N10, N12–N23: thành tiền tính bằng công thức `=M*L`.
+- [x] THop: tách nhãn và giá trị (D9 dự án, D10 hạng mục, D12 địa điểm) để bìa hiển thị đúng. Ngày báo giá cố định 26/11/2026.
+- [x] Bìa: địa điểm và số báo giá lấy từ THop, không còn hiện "0" khi ô trống.
+- [x] Đổi "TẦNG TRỆT" thành "TẦNG 2". Việt hóa các dòng Prelim. Bỏ ghi chú "shop" và "chdv". Thống nhất tên phần B.
+- [x] Phần C Nội thất ghi "Thực hiện giai đoạn 2 (sau Tết)".
+- [x] Xóa 16 tên vùng lỗi `#REF!`.
+- [ ] Chưa có đơn giá: Fit mục 6, 7, 9 (cửa Xingfa, cửa WC, gác lửng). Chủ nhà sẽ cung cấp.
+
+Tổng sau khi sửa: A 1.200.000 · B 20.964.000 · D 14.710.000 (M&E 5.750.000 + thiết bị 8.960.000) → **37.000.000 trước VAT**.
