@@ -11,7 +11,9 @@ Hồ sơ quản lý dự án cải tạo tầng 2 của nhà phố 3 tầng.
 | Loại công trình | Nhà phố 3 tầng |
 | Phạm vi cải tạo | Chỉ **Tầng 2** |
 | Hiện trạng Tầng 1 | Mặt tiền đang cho thuê làm **hiệu thuốc** |
-| Địa chỉ | _(chưa có)_ |
+| Địa chỉ | Phường Phú Nhuận, TP. Hồ Chí Minh |
+| Lối lên Tầng 2 | **Phải đi qua hiệu thuốc**. Ban ngày được lên xuống nhưng hạn chế |
+| Bản vẽ | Đang thực hiện. **Phá dỡ trước, song song với việc chờ bản vẽ** |
 | Chủ đầu tư / Nhà thầu / Giám sát | _(chưa có)_ |
 | Ngân sách | _(chưa có)_ |
 
@@ -30,7 +32,7 @@ Thời gian thi công thực tế còn khoảng **9 tuần**.
 
 ## 3. Ràng buộc thi công
 
-1. **Vận chuyển chỉ được làm sau 22h00**, khi hiệu thuốc đã đóng cửa. Áp dụng cho việc chở xà bần ra và chở vật tư vào.
+1. **Chở xà bần ra chỉ được làm sau 22h00**, khi hiệu thuốc đã đóng cửa. Vật tư chở vào không bị giới hạn giờ này, nhưng vẫn phải đi qua hiệu thuốc nên cần hạn chế và sắp xếp khung giờ.
 2. **Xà bần phải đóng bao** ngay khi phá dỡ, không đổ rời.
 3. Không làm ảnh hưởng đến việc kinh doanh của hiệu thuốc ở Tầng 1 (bụi, ồn, rò nước, an toàn cho khách hàng).
 4. Theo QCVN 26:2010/BTNMT, khu dân cư thông thường bị giới hạn tiếng ồn ở mức 55 dBA trong khung 21h–6h. Vì vậy ban đêm chỉ bốc xếp nhẹ nhàng; các việc gây ồn như đục phá, khoan cắt phải làm ban ngày.
@@ -60,10 +62,16 @@ Thời gian thi công thực tế còn khoảng **9 tuần**.
 
 ## 6. Câu hỏi còn mở
 
-- [ ] Nhà nằm ở thành phố nào? (để kiểm tra quy định giờ xe tải và xin phép sửa chữa)
-- [ ] Lối lên Tầng 2 có phải đi qua hiệu thuốc không, hay có cầu thang hoặc lối đi riêng?
-- [ ] Ban ngày có được đưa người và đồ nghề nhẹ lên không?
+- [x] Địa điểm: Phường Phú Nhuận, TP.HCM
+- [x] Lối lên: đi qua hiệu thuốc, ban ngày hạn chế
+- [x] Vật tư: không giới hạn sau 22h
 - [ ] Tầng 3 có người ở trong lúc thi công không?
-- [ ] Phạm vi chi tiết của Tầng 2: phá những gì, xây mới những gì, có khu vệ sinh hay bếp không?
-- [ ] Có bản vẽ hiện trạng và bản vẽ cải tạo chưa?
+- [ ] Phạm vi chi tiết các hạng mục Tầng 2 (chủ nhà sẽ cung cấp)
+- [ ] Bản vẽ cải tạo: đang thực hiện. Cần **bản vẽ hiện trạng có đánh dấu phạm vi phá dỡ** trước khi phá
 - [ ] Đã có nhà thầu chưa? Ngân sách dự kiến là bao nhiêu?
+- [ ] Khung giờ hiệu thuốc mở/đóng cửa, có được giữ chìa khóa không, ai đi cùng khi chở xà bần ban đêm?
+- [ ] Tầng 2 có công tơ hoặc aptomat điện, van nước riêng không?
+
+## 7. Tài liệu liên quan
+
+- [Kế hoạch phá dỡ](ke-hoach-pha-do.md)
