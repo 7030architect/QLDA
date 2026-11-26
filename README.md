@@ -75,3 +75,4 @@ Thời gian thi công thực tế còn khoảng **9 tuần**.
 ## 7. Tài liệu liên quan
 
 - [Kế hoạch phá dỡ](ke-hoach-pha-do.md)
+- [Danh sách nhà cung cấp](nha-cung-cap.md)
