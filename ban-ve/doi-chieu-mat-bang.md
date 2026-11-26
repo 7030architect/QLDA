@@ -37,7 +37,7 @@ Phần sân có mái tôn phía dưới trục A (trục 2–5) được **chuy�
 | PD6 | Cửa từ sảnh cầu thang vào phòng trục 3–4 | Góc trục A/3 | 1 bộ | |
 | PD7 | Bệ xây ốp gạch, tường lửng ở sảnh (ảnh T2-01) | Sảnh, hành lang | — | |
 | PD8 | Cửa gỗ các phòng, ô kính khung nhôm trên vách, đèn, quạt, dây điện nổi, máy lạnh | Toàn tầng | — | Máy lạnh tháo, thu hồi gas |
-| PD9 | Gạch nền | Toàn tầng hoặc theo phạm vi | khoảng 100 m² | **Cần xác nhận**: bóc toàn bộ hay một phần |
+| PD9 | Gạch nền, vữa lót (và lớp chống thấm cũ) | **Chỉ khu WC mới (khoảng 7 m²) và toàn bộ sân trước (khoảng 18 m²)** | khoảng 25 m² | Đã chốt 26/11: bóc đến mặt bê tông để chống thấm lại. Phần còn lại giữ nền cũ |
 | PD10 | Tường hoặc vách tại khoảng trục 5,5 (ranh giữa sân mái tôn và Sân) | Dưới trục A | — | **Cần xác nhận**: giữ hay phá |
 
 ### Giữ lại, KHÔNG phá
@@ -54,24 +54,24 @@ Phần sân có mái tôn phía dưới trục A (trục 2–5) được **chuy�
 
 ## Ước lượng xà bần (rất sơ bộ)
 
-Giả định: tường cao khoảng 3,0–3,2 m, dày 100–200 mm, bóc toàn bộ gạch nền kèm vữa lót khoảng 5 cm.
+Giả định: tường cao khoảng 3,0–3,2 m, dày 100–200 mm. Chỉ bóc nền khu WC và sân trước, lớp gạch và vữa dày khoảng 7 cm.
 
 | Nguồn | Khối lượng đặc | Khối lượng rời (×1,4) |
 |---|---|---|
 | Tường phá (khoảng 45–55 m²) | 5–8 m³ | 7–11 m³ |
-| Gạch nền và vữa lót (khoảng 100 m²) | khoảng 5 m³ | khoảng 7 m³ |
-| **Tổng** | **10–13 m³** | **14–18 m³** |
+| Gạch nền và vữa lót (khoảng 25 m²) | khoảng 1,8 m³ | khoảng 2,5 m³ |
+| **Tổng** | **7–10 m³** | **10–14 m³** |
 
 Quy đổi:
-- Khoảng **700–1.000 bao** loại 25–30 kg, tổng nặng **khoảng 20–25 tấn**.
-- Khoảng **15–20 chuyến xe 1 m³**, tương đương 2 chuyến mỗi đêm trong khoảng 10 đêm.
+- Khoảng **500–750 bao** loại 25–30 kg, tổng nặng **khoảng 15–20 tấn**.
+- Khoảng **12–14 chuyến xe 1 m³**, tương đương 1–2 chuyến mỗi đêm trong khoảng 10 đêm.
 
-**Ảnh hưởng đến kế hoạch:** trung bình khoảng 80–100 bao phải vác qua hiệu thuốc **mỗi đêm**. Cần 3–4 người vác trong khoảng 1,5 giờ.
+**Ảnh hưởng đến kế hoạch:** trung bình khoảng 50–75 bao phải vác qua hiệu thuốc **mỗi đêm**.
 
 ## Câu hỏi cần chốt
 1. Chiều cao tầng 2 (sàn đến đáy sàn hoặc đáy dầm)? Tường trục A và trục 4, 5 dày 100 hay 200?
 2. Tường trục 4 (B–A): phá hẳn thay cửa lùa, hay giữ tường và chỉ mở cửa?
-3. Nền: bóc toàn bộ gạch cũ hay lát chồng? Cao độ nền sân dưới trục A so với nền phòng chênh bao nhiêu?
+3. ~~Nền~~ (đã chốt). Còn hỏi: cao độ nền sân dưới trục A so với nền phòng chênh bao nhiêu? "Sân trước" là Sân trục 5–6 (18 m², phía trên hiệu thuốc)?
 4. Khu sân dưới trục A khi thành không gian trong nhà: **giữ mái tôn hay làm mái mới**? Có làm trần không?
 5. Tầng 3 có tường nào nằm ngay trên các tường sắp phá (trục A, 4, 5) mà **không có dầm đỡ** không? Kỹ sư kết cấu cần kiểm tra trước khi phá PD1–PD4.
 6. Các ô vuông nhỏ giữa trục 4–5 (trên trục A và trục B) trong bản vẽ mới là cột hay chi tiết gì?
