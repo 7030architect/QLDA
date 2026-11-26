@@ -76,3 +76,5 @@ Thời gian thi công thực tế còn khoảng **9 tuần**.
 
 - [Kế hoạch phá dỡ](ke-hoach-pha-do.md)
 - [Danh sách nhà cung cấp](nha-cung-cap.md)
+- [Hiện trạng Tầng 2 (ảnh)](hien-trang/hien-trang-tang-2.md)
+- [Đối chiếu mặt bằng hiện trạng và cải tạo](ban-ve/doi-chieu-mat-bang.md)
