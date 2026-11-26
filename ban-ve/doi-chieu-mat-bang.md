@@ -75,3 +75,22 @@ Quy đổi:
 4. Khu sân dưới trục A khi thành không gian trong nhà: **giữ mái tôn hay làm mái mới**? Có làm trần không?
 5. Tầng 3 có tường nào nằm ngay trên các tường sắp phá (trục A, 4, 5) mà **không có dầm đỡ** không? Kỹ sư kết cấu cần kiểm tra trước khi phá PD1–PD4.
 6. Các ô vuông nhỏ giữa trục 4–5 (trên trục A và trục B) trong bản vẽ mới là cột hay chi tiết gì?
+
+## Quyết định đã chốt
+
+| Ngày | Nội dung |
+|---|---|
+| 26/11/2026 | Nền: chỉ bóc khu WC mới và toàn bộ sân trước, để chống thấm lại |
+| 26/11/2026 | **Thay mới toàn bộ cửa đi** |
+| 26/11/2026 | **Mái tôn giữ nguyên**. Bổ sung chống nóng và làm trần thạch cao bên dưới (khu hành lang, phụ trợ, bếp + ăn, khoảng 37 m²) |
+
+### Phương án chống nóng mái tôn (để chọn)
+
+| Phương án | Ưu | Nhược |
+|---|---|---|
+| A. Túi khí cách nhiệt hoặc tấm PE-OPP dán sát dưới tôn | Rẻ, thi công nhanh | Hiệu quả trung bình |
+| B. Bông thủy tinh 50mm có màng bạc, đặt trên trần thạch cao | Cách nhiệt và cách âm tiếng mưa tốt, đi chung với trần | Cần trần kín, không đặt sát chỗ đèn |
+| C. Phun PU foam mặt dưới tôn | Hiệu quả cao, chống ồn mưa | Đắt nhất |
+| D. Sơn chống nóng mặt trên tôn | Không ảnh hưởng bên dưới | Phải thi công trên mái |
+
+**Đề xuất:** phương án **A + B**. Chi phí vừa phải mà chống nóng và chống ồn mưa tốt cho khu bếp và ăn. Trần khu bếp, WC, giặt nên dùng **tấm thạch cao chống ẩm**. Chừa lỗ cho ống hút mùi bếp và lỗ thăm trần.
